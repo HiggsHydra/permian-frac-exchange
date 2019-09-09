@@ -1,0 +1,5 @@
+URL: https: "//apachecorp.sharefile.com/settings/personal/advancedconnections"
+username: "ccasper@sm-energy.com"
+password: "SMEnergy123!"
+basepath: "\\denfile\DenverShares\Shared\CCASPER\ArcGIS\Projects\FRAC DATA\TABLE\Frac_Extracts\FTP_Test"
+destination: "./data"
